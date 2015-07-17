@@ -1,6 +1,6 @@
 <? 
 connect to db
-$link = mysql_connect('localhost', 'root', '');
+$link = mysql_connect('localhost', 'root', 'root');
 if (!$link) {
     die('Not connected : ' . mysql_error());
 }
