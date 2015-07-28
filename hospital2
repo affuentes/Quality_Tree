@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ejercicio hospital</title>
+<link href="estilo.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div id="tot">
+<div id="header">
+<img src="images/sqm.png" align="left" alt="sqm"/> <span class="title">___SISTEMA DE CITAS MEDICAS</span>
+<div class="slogan">...Menu Principal...</div>
+
+<div id="menu">
+<div class="butonas"><a href="index.html">INICIO</a></div>
+<div class="butonas"><a href="HOSPITAL1.HTML">PACIENTES</a></div>
+<div  class="butonas"><a href="HOSPITAL2.HTML">MEDICOS</a></div>
+<div  class="butonas"><a href="HOSPITAL3.HTML">CITAS</a></div>
+
+</div>
+
+</div>
+
+<h1>__MEDICOS__</h1>
+
+<div id="corp">
+
+<div class="main-text">
+
+
+
+
+
+
+
+
+
+
+ <section id="content">
+      <div class="container">
+         <div class="inside">
+            <h2>Ingreso de informacion</h2>
+            
+              
+
+                              <div class="field">
+<BR>
+                                 <label>Numero de Cita:......</label>
+                                 <input type="text" value=""/>
+                              </div>
+<BR>
+
+                              <div class="field">
+                                 <label>Numero paciente:....</label>
+                                 <input type="email" value=""/>
+                              </div>
+<BR>
+
+                                 <label>Nombre Paciente:....</label>
+                                 <input type="text" value=""/>
+                              </div>
+<BR>
+
+                              <div class="field">
+                                 <label>Numero Medico:......</label>
+                                 <input type="email" value=""/>
+                              </div>
+<BR>
+
+                                 <label>Nombre Medico:......</label>
+                                 <input type="text" value=""/>
+                              </div>
+<BR>
+
+                              <div class="field">
+                                 <label>Fecha de la Cita:.....</label>
+                                 <input type="email" value=""/>
+                              </div>
+<BR>
+
+
+                              <div class="field">
+                                 <label>Localidad:..............</label>
+                                 <input type="email" value=""/>
+                              </div>
+<BR>
+
+                                 <label>Metodo de Pago:.....</label>
+                                 <input type="text" value=""/>
+                              </div>
+<BR>
+
+                           
+
+                                <div class="alignright"><a href="#" onclick="document.getElementById('contacts-form').reset()" class="alt">Agregar</a> &nbsp; &nbsp; <a href="#" onclick="document.getElementById('contacts-form').submit()">Cambiar</a></div>
+<p>__________________________________________________________________________</p>
+<div class="alignright"><a href="#" onclick="document.getElementById('contacts-form').reset()" class="alt">Ayuda</a> &nbsp; &nbsp; <a href="#" onclick="document.getElementById('contacts-form').submit()">Eliminar</a></div>
+
+				</fieldset>
+                           </form>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="left-bot-corner">
+                  <div class="right-bot-corner">
+                     <div class="border-bot"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section>
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+</div>
+<div class="clear"></div>
+
+</div>
+
+
+</body>
+</html>
